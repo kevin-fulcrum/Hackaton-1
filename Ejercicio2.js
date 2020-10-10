@@ -15,4 +15,4 @@ for (let i = 0; i < Frutas.length; i++){
     Alimentos.push(Frutas[i]);
     //console.log(Frutas[i])
 }
-console.log(Alimentos)
+console.log("Todos los alimentos: ", Alimentos)
