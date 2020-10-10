@@ -3,4 +3,4 @@ const SortNumericallu = (a,b) => {
     return a - b;
 }
 NumerosAsc = Numeros.sort(SortNumericallu)
-console.log(Numeros[0]);
+console.log("El menor numero es: " + Numeros[0]);
